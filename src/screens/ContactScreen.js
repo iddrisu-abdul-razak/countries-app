@@ -2,7 +2,9 @@ import React from 'react'
 
 function ContactScreen() {
   return (
-    <div>ContactScreen</div>
+    <div>
+        ContactScreen
+    </div>
   )
 }
 
