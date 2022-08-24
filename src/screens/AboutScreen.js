@@ -5,8 +5,7 @@ function AboutScreen() {
   return (
     <div>
       <Header />
-      <p>This web application displays countries around the globe... 
-        indicating their currency, official capital and flags </p>
+      <p>At ElQodesh Smart phones, we provide you with the BEST</p>
     </div>
   )
 }
